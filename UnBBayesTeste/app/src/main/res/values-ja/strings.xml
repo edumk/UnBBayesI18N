@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UnBBayesApp</string>
+    <string name="dataHoje">今日の日付:</string>
+    <string name="textoExtra">このテキストはI18Nテスト用に追加されました。 これは私のTCC用に開発されたアプリケーションです。</string>
+    <string name="numeroTeste">試験番号：</string>
+    <string name="moedaTeste">通貨テスト：</string>
+    <string name="dataFormatada">フォーマットされた日付：</string>
+    <string name="regiaoFormato">フォーマットの地域：</string>
+    <string name="esperandoEvidencia">証拠を待っている ...</string>
+    <string name="redeBayesiana">------ ベイジアンネットワーク ------</string>
+
+    <string name="caminhando">ウォーキング</string>
+    <string name="telaLigada">画面上で</string>
+    <string name="tocandoMusicaouSom">音楽やサウンドを再生する</string>
+    <string name="falandoCelular">話す携帯電話</string>
+
+    <string name="naoSeguro">ホーム 歩いたり、スマートフォンを使用することは安全ではありません！</string>
+    <string name="nivelConsciencia">認識度0.79以下！</string>
+    <string name="distraido">ホーム あなたは気を散らすことができます！</string>
+</resources>

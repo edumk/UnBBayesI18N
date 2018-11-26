@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UnBBayesApp</string>
+    <string name="dataHoje">Today\'s date:</string>
+    <string name="textoExtra">This text was added for I18N test. This is an application developed for my TCC.</string>
+    <string name="numeroTeste">Test Number:</string>
+    <string name="moedaTeste">Test Currency:</string>
+    <string name="dataFormatada">Formatted date:</string>
+    <string name="regiaoFormato">Format Region:</string>
+    <string name="esperandoEvidencia">Waiting for evidence ...</string>
+    <string name="redeBayesiana">------ Bayesian Network ------</string>
+
+    <string name="caminhando">Walking</string>
+    <string name="telaLigada">On screen</string>
+    <string name="tocandoMusicaouSom">Playing Music or Sound</string>
+    <string name="falandoCelular">Talking Cell Phone</string>
+
+    <string name="naoSeguro">Attention! Walking and using your smartphone is not safe!</string>
+    <string name="nivelConsciencia">Level of awareness below 0.79!</string>
+    <string name="distraido">Attention! You can be distracted!</string>
+</resources>
